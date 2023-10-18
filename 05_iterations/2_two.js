@@ -1,3 +1,5 @@
+//while
+
 index=0;
 
 while (index<=10) {
@@ -5,6 +7,7 @@ while (index<=10) {
     index=index+2
 }
 
+//do while
 let score=1;
 // this loop always runs atleast ones
 do {
